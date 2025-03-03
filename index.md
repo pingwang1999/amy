@@ -4,7 +4,7 @@
 
 ### Data Analytics
 ---
-[Maximizing Revenue: Causal Insights from Email Targeting](pdf/Retailer.html)
+[Maximizing Revenue: Causal Insights from Email Targeting](pdf/wineRetailer.html)
 <img src="images/Retailer.jpeg"/>
 
 ---
