@@ -3,7 +3,7 @@
 
 ### Data Analytics
 [Customer Churn Analyst](pdf/Customer.html)
-> This project aims to demonstrate how businesses can leverage subscription data and demographic insights to optimize customer retention and maximize revenue. By analyzing key subscription metrics and predicting churn, we can identify strategies to enhance customer loyalty and profitability. This project includes 3 parts: 1) KPI Analysis – churn rate, MRR, AOV, and LTV, 2) Churn Prediction Model – machine learning models to identify factors, 3) Strategic Insights & Visualization – Utilizing Tableau dashboards to present findings and guide business decisions.  
+> This project explores how businesses can use subscription data to boost retention and revenue. It includes: 1) KPI Analysis – Calculating churn rate, MRR, AOV, LTV, 2) Churn Prediction – Identifying churn factors with machine learning, 3) Strategic Insights – Visualizing findings with Tableau for better decisions.  
 <img src="images/Customer.jpeg"/>
 
 ---
