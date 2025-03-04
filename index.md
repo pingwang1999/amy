@@ -8,7 +8,7 @@
 
 ---
 [Causal Effect: Email Targeting](pdf/Retailer.html)
-> This project analyzes email marketing's impact on customer purchase behavior. It includes: 1) Causal Effect Analysis: Measuring the lift in purchases driven by email marketing, 2) Segmentation Analysis: Segmenting customers by product preferences, 3) Strategic Insights: Providing targeted recommendations to boost revenue.
+> This project analyzes email marketing's impact on customer purchase behavior. It includes: 1) Causal Effect: Measuring the lift in purchases , 2) Segmentation Analysis: Segmenting customers by product preferences, 3) Strategic Insights: Providing targeted recommendations to boost revenue.
 <img src="images/Retailer.jpeg"/>
 
 ---
