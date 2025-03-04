@@ -3,7 +3,7 @@
 ---
 
 ### Data Analytics
-[Sales Forecasting & Insights Analysis](pdf/Customer.html)
+[Customer Churn Analyst](pdf/Customer.html)
 <img src="images/Customer.jpeg"/>
 
 ---
